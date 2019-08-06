@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chs/TinyJson/TyJson.c
+TyJson.h
+/home/chs/TinyJson/TyJson.h
+assert.h
+-
+stdlib.h
+-
+math.h
+-
+errno.h
+-
+
+/home/chs/TinyJson/TyJson.h
+

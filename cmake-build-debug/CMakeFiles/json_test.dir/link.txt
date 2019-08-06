@@ -1,0 +1,1 @@
+/usr/bin/cc  -ansi -pedantic -Wall -g  -rdynamic CMakeFiles/json_test.dir/test.c.o  -o json_test libTyjson.a 

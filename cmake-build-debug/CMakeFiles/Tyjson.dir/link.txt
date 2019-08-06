@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTyjson.a  CMakeFiles/Tyjson.dir/TyJson.c.o
+/usr/bin/ranlib libTyjson.a
