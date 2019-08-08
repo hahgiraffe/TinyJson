@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/chs/TinyJson/test.c" "/home/chs/TinyJson/cmake-build-debug/CMakeFiles/json_test.dir/test.c.o"
+  "/home/chs/TinyJson/example.c" "/home/chs/TinyJson/cmake-build-debug/CMakeFiles/json_test.dir/example.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

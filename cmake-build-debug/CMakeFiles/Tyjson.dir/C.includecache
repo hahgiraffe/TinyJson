@@ -11,12 +11,16 @@ TyJson.h
 /home/chs/TinyJson/TyJson.h
 assert.h
 -
+stdio.h
+-
+
+/home/chs/TinyJson/TyJson.h
 stdlib.h
 -
 math.h
 -
 errno.h
 -
-
-/home/chs/TinyJson/TyJson.h
+string.h
+-
 

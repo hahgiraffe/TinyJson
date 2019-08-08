@@ -6,5 +6,6 @@ if (CMAKE_C_COMPILER_ID MATCHES "GNU|Clang")
 endif()
 
 add_library(Tyjson TyJson.c)
-add_executable(json_test test.c)
+#add_executable(json_test test.c)
+add_executable(json_test example.c)
 target_link_libraries(json_test Tyjson)

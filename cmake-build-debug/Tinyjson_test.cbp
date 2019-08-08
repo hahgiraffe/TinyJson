@@ -136,7 +136,7 @@
 		<Unit filename="/home/chs/TinyJson/TyJson.h">
 			<Option target="Tyjson"/>
 		</Unit>
-		<Unit filename="/home/chs/TinyJson/test.c">
+		<Unit filename="/home/chs/TinyJson/example.c">
 			<Option target="json_test"/>
 		</Unit>
 		<Unit filename="/home/chs/TinyJson/CMakeLists.txt">

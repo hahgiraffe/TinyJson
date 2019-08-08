@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/json_test.dir/test.c.o"
+  "CMakeFiles/json_test.dir/example.c.o"
   "json_test.pdb"
   "json_test"
 )
